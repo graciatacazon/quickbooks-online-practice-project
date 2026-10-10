@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This project demonstrates my developing QuickBooks Online bookkeeping skills through a simulated small-business accounting workflow using a fictional U.S. residential cleaning business, Sage & Co. Consulting LLC.
+This project demonstrates my developing QuickBooks Online bookkeeping skills through a simulated small-business accounting workflow using a fictional U.S. Operations and process consulting for small businesses, Sage & Co. Consulting LLC.
 
 The project focuses on organizing financial transactions, maintaining accurate accounting records, reconciling bank activity, and reviewing financial reports.
 
 **Project type:** Self-directed practice project  
 **Accounting software:** QuickBooks Online  
-**Business type:** Residential cleaning services  
-**Reporting period:** January 2026  
+**Business type:** Operations and process consulting for small businesses  
+**Reporting period:** January to Deceember 2025  
 **Data:** Fictional practice data
 
 ## Project Objectives
