@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates my developing QuickBooks Online bookkeeping skills through a simulated small-business accounting workflow using a fictional U.S. residential cleaning business, Cedar & Sage Home Services LLC.
+This project demonstrates my developing QuickBooks Online bookkeeping skills through a simulated small-business accounting workflow using a fictional U.S. residential cleaning business, Sage & Co. Consulting LLC.
 
 The project focuses on organizing financial transactions, maintaining accurate accounting records, reconciling bank activity, and reviewing financial reports.
 
